@@ -12,3 +12,4 @@
 0.0.0.0 eu-adsrv.rtbsuperhub.com
 0.0.0.0 it.xhamsterlive.com
 0.0.0.0 xhamsterlive.com
+0.0.0.0 go.xxxviijmp.com/
