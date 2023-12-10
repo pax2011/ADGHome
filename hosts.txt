@@ -9,3 +9,6 @@
 0.0.0.0 cam4.com
 0.0.0.0 dirty.games
 0.0.0.0 go.stripchat.com
+0.0.0.0 eu-adsrv.rtbsuperhub.com
+0.0.0.0 it.xhamsterlive.com
+0.0.0.0 xhamsterlive.com
