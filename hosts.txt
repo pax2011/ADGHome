@@ -1,0 +1,3 @@
+# AdAway custom blocklist
+# Blocking mobile ad providers and some analytics providers
+0.0.0.0 lottomatica.it
