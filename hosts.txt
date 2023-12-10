@@ -3,3 +3,4 @@
 0.0.0.0 lottomatica.it
 0.0.0.0 it.stripchat.com
 0.0.0.0 stripchat.com
+0.0.0.0 l.clips4sale.com
